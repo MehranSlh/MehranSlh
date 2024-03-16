@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MehranSlh
-- 👀 I’m interested in Blockchain progranning
+- 👀 I’m interested in blockchain progranning
 - 🌱 I’m currently learning solidity and javascript and python
 
 <!---
