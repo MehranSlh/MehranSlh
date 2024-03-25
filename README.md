@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MehranSlh
-- 👀 I’m interested in blockchain progranning
-- 🌱 I’m currently learning solidity and javascript and python
+Hi, I’m Mehran Salahi
+I’m learning blockchain programming
 
 <!---
 MehranSlh/MehranSlh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
